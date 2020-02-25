@@ -6,4 +6,7 @@ Then i have used Decision tree as the first learning algo which was not promisin
 I have also ploted the dendogram as proof
  
 As my final model i used Random Forest with 5 fold cross validation
-Which was very much promising
+# The accuracy rate using the random forest is very high
+# therefore the out-of-sample-error is negligible.
+# But it might be due to overfitting.
+The final model was very much promising
